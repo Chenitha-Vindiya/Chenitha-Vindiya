@@ -32,6 +32,11 @@
 </tr>
 </table>
 
+<h3 align="center">Just a snake eating my contributions 🐍</h3>
+<p align='center'>
+<img src="https://github.com/chinmay29hub/chinmay29hub/raw/output/github-contribution-grid-snake.svg">
+</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
