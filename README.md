@@ -61,7 +61,7 @@
   <a href="https://linkedin.com/in/chenitha-vindiya" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="chenitha-vindiya" height="30" width="40" /></a>
   <a href="https://fb.com/chenitha.vindiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chenitha.vindiya" height="30" width="40" /></a>
   <a href="https://instagram.com/chenitha_vindiya" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="chenitha_vindiya" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/@chenilk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@chenilk" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@CheniLk?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@chenilk" height="30" width="40" /></a>
   <a href="https://discord.gg/chenitha_vindiya" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Discord.svg" alt="chenitha_vindiya" height="30" width="40" /></a>
   </p>
   
