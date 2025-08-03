@@ -39,7 +39,9 @@
 <a href="https://instagram.com/chenitha_vindiya" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="chenitha_vindiya" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@chenilk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@chenilk" height="30" width="40" /></a>
 <a href="https://discord.gg/chenitha_vindiya" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Discord.svg" alt="chenitha_vindiya" height="30" width="40" /></a>
-</p><hr>
+</p>
+
+---
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -55,7 +57,9 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> </a></p><hr>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> </a></p>
+
+  ---
   
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/buymeacoffee.com/chenitha_vindiya"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/chenitha_vindiya" /></a></p><br><br>
