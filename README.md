@@ -1,14 +1,14 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Chenitha Vindiya</h1>
-<h3 align="center">A passionate IT Student from Sri Lanka| Exploring the Boundless World of Technology</h3>
+<h3 align="center">A passionate IT Student from Sri Lanka | Exploring the Boundless World of Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chenitha-vindiya&label=Profile%20views&color=000000&style=flat" alt="chenitha-vindiya" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chenitha-vindiya&label=Profile%20views&color=000000&style=flat" alt="chenitha-vindiya" /> </p>
 
 - 🔭 I’m currently working on [Silent Eye](https://github.com/Chenitha-Vindiya/Silent_Eye)
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍🎓 I’m an Undergraduate at [SLIIT](SLIIT)
+- 👨‍🎓 I’m an Undergraduate at **SLIIT**
 
 - 💬 Ask me about **Java**
 
