@@ -23,10 +23,11 @@
 </td>
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Chenitha-Vindiya&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Chenitha-Vindiya&theme=dark&show_icons=true&count_private=true" width="500px" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Chenitha-Vindiya&theme=dark&hide_border=false" /> 
-  [![Ketan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chenitha-Vindiya&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Chenitha-Vindiya&theme=dark&hide_border=false" width="500px" />
+  <br></br>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chenitha-Vindiya&layout=compact&theme=dark&langs_count=8" width="500px" />
 
 </tr>
 </table>
