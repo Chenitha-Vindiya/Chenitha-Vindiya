@@ -8,7 +8,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on **[Medical Appointment Scheduling System](https://github.com/Chenitha-Vindiya/Medical-Appointment-Scheduling-System)**
+- 🔭 I’m currently working on **[Medical Appointment System](https://github.com/Chenitha-Vindiya/Medical-Appointment-Scheduling-System)**
 
 - 🌱 I’m currently learning **Java**
 
