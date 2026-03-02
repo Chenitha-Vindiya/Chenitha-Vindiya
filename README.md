@@ -8,13 +8,13 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on **[Silent Eye](https://github.com/Chenitha-Vindiya/Silent_Eye)**
+- 🔭 I’m currently working on **[Medical Appointment Scheduling System](https://github.com/Chenitha-Vindiya/Medical-Appointment-Scheduling-System)**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍🎓 I’m an Undergraduate at **SLIIT**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **chenithavindiya@gmail.com**
 
